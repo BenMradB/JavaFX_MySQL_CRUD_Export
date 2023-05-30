@@ -1,0 +1,12 @@
+User Id : 1
+Username : Benmrad Bilel
+Email Address : bilel @gmail.com
+Password : 123456
+User Id : 4
+Username : Benmrad Aziz
+Email Address : aziz@gmail.com
+Password : 123456
+User Id : 6
+Username : fatma@gmail.com
+Email Address : Cherny Fatma Updated
+Password : 123456
